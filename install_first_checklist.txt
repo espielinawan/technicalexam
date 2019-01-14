@@ -1,0 +1,6 @@
+Flask==0.11.1
+Flask-HTTPAuth==3.2.4
+Jinja2==2.8
+pymongo
+pymodm
+Pillow==5.0.0
